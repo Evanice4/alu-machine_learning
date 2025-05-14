@@ -1,4 +1,4 @@
-mport numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
 
 x = np.arange(0, 21000, 1000)
