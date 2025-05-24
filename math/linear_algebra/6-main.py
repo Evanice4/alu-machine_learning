@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+!/usr/bin/env python3
 
 cat_arrays = __import__('6-howdy_partner').cat_arrays
 
